@@ -35,7 +35,7 @@ Fin
 
 Se presenta el diagrama de flujo correspondiente al algoritmo anterior:
 
-![Diagrama de flujo]()
+![Diagrama de flujo](https://github.com/PierreLogs/JavaExercices/blob/main/areaRombo/Diagrama5.png)
 
 ## Código Java
 
