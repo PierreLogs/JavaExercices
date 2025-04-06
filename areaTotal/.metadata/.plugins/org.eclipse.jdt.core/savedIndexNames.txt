@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/nightfall/Descargas/Cibertec II/Introduccion a la algoritmia/Tema 1/algoritmo/areaTotal/.metadata/.plugins/org.eclipse.jdt.core
+3672224818.index
+2734519219.index
+1865797976.index
