@@ -32,7 +32,7 @@ Fin
 
 Disenando el diagrama de flujo se puede observar que el algoritmo es sencillo, se pide al usuario que ingrese el largo y el ancho del terreno, luego se calcula el área y el precio del terreno con las fórmulas mencionadas anteriormente. Finalmente se imprime el resultado en pantalla.
 
-![Diagrama de flujo](https://github.com/PierreLogs/ejercicio3-java/blob/main/Diagrama3.png)
+![Diagrama de flujo](https://github.com/PierreLogs/JavaExercices/blob/main/calcularArea/Diagrama3.png)
 
 ### Código en Java
 

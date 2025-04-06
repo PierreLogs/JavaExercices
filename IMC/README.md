@@ -29,7 +29,7 @@ Fin
 
 Para resolver el problema se debe utilizar la fórmula del índice de masa corporal (IMC) que es el peso de una persona en kilogramos dividido por el cuadrado de su estatura en metros. El algoritmo debe seguir los siguientes pasos:
 
-![Diagrama de flujo](https://github.com/PierreLogs/ejercicio2-java/blob/main/Diagrama.png)
+![Diagrama de flujo](https://github.com/PierreLogs/JavaExercices/blob/main/IMC/Diagrama.png)
 
 ### Código en Java
 

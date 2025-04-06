@@ -37,7 +37,7 @@ Fin
 
 Diseñando el diagrama de flujo se puede observar que el algoritmo es sencillo, se pide al usuario que ingrese la base y la altura del rectángulo, luego se calcula el área y el perímetro del rectángulo con las fórmulas mencionadas anteriormente. Finalmente se imprime el resultado en pantalla.
 
-![diagrama de flujo](https://github.com/PierreLogs/ejercicio1-java/blob/main/Diagrama1.png);
+![diagrama de flujo](https://github.com/PierreLogs/JavaExercices/blob/main/areaRectangulo/Diagrama1.png);
 
 ### Código en Java
 

@@ -36,7 +36,7 @@ Fin
 
 Diseñando el diagrama de flujo se puede observar que el algoritmo es sencillo, se pide al usuario que ingrese el radio del círculo, luego se calcula el área y la longitud de la circunferencia con las fórmulas mencionadas anteriormente. Finalmente se imprime el resultado en pantalla.
 
-![Diagrama de flujo](https://github.com/PierreLogs/ejercicio4-java/blob/main/Diagrama4.png)
+![Diagrama de flujo](https://github.com/PierreLogs/JavaExercices/blob/main/areaCirculo/Diagrama4.png)
 
 ### Código en Java
 
